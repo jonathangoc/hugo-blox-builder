@@ -2,7 +2,7 @@
   "dependencies": {
     "@tailwindcss/nesting": "0.0.0-insiders.565cd3e",
     "katex": "^0.16.9",
-    "markmap-autoloader": "^0.15.4",
+    "markmap-autoloader": "^0.18.11",
     "mermaid": "^10.6.0",
     "plotly.js": "^2.27.0",
     "vite": "^4.5.0",
